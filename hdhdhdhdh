@@ -1,0 +1,215 @@
+
+﻿<!Doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HBO Nordic</title>
+
+<style type="text/css">
+body {
+	margin: 0;
+}
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: Merienda, 'Times New Roman', serif;
+	font-style: normal;
+	font-weight: 400;
+}
+button{
+	width:90%;
+}
+@media screen and (max-width:600px) {
+/*styling for objects with screen size less than 600px; */
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: Merienda, 'Times New Roman', serif;
+}
+table {
+	/* All tables are 100% width */
+	width: 100%;
+}
+.footer {
+	/* Footer has 2 columns each of 48% width */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+table.responsiveImage {
+	/* Container for images in catalog */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+table.responsiveContent {
+	/* Content that accompanies the content in the catalog */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+.top {
+	/* Each Columnar table in the header */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+}
+
+}
+@media screen and (max-width:480px) {
+/*styling for objects with screen size less than 480px; */
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: Merienda, 'Times New Roman', serif;
+}
+table {
+	/* All tables are 100% width */
+	width: 100% !important;
+	border-style: none !important;
+}
+.footer {
+	/* Each footer column in this case should occupy 96% width  and 4% is allowed for email client padding*/
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveImage {
+	/* Container for each image now specifying full width */
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveContent {
+	/* Content in catalog  occupying full width of cell */
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.top {
+	/* Header columns occupying full width */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+}
+button{
+	width:90%!important;
+}
+}
+</style>
+</head>
+<body>
+<table align="center" width="500"  cellspacing="0" cellpadding="0"  border="1px">
+  <tbody>
+    <tr>
+      <td><table width="500"  align="center" cellpadding="0" cellspacing="0">
+          <!-- Main Wrapper Table with initial width set to 60opx -->
+          <tbody>
+            
+            <tr> 
+              <!-- HTML Spacer row -->
+              <td style="font-size: 0; line-height: 0;" height="20"><table width="100%" align="center"  cellpadding="0" cellspacing="0" bgcolor="#161616">
+                  <tr>
+                    <td style="font-size: 0; line-height: 0;" height="20"  ></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <tr> 
+              <!-- HTML IMAGE SPACER -->
+              <td style="font-size: 0; line-height: 0;" height="20"><table align="center"  cellpadding="0" cellspacing="0" >
+                  <tr>
+                    <td > <a href="http://nutrck.com/?E=HKO1Dyr4nhrON0aIkN2O5zfQ7pxo0kCN&s1=">
+
+<img src="sehbo12mwide.JPG"  alt="" height="" width="100%" class=""></a></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <tr> 
+              <!-- HTML Spacer row -->
+              <td style="font-size: 0; line-height: 0;" height="20"><table width="100%" align="center"  cellpadding="0" cellspacing="0" bgcolor="#161616">
+                  <tr>
+                    <td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td>
+                  </tr>
+                </table></td>
+            </tr>
+            <tr> 
+              <!-- Introduction area -->
+              <td><table width="100%"  align="center" cellpadding="0" cellspacing="0" bgcolor="#161616">
+                  <tr> 
+                    <!-- row container for TITLE/EMAIL THEME -->
+                    <td align="center" style="font-size: 20px; font-weight: 300; line-height: 1,5em; color: #929292; font-family: verdana, geneva, arial, helvetica, sans-serif;">Hej %%First Name%%<br>
+<br>
+Vill du testa HBO Nordic i 12 månader? <br><br>
+
+
+Ingen bindningstid<br>
+
+Fungerar i alla hem<br>
+
+Alla typer av enheter<br>
+
+UHD kompatibel
+</td>
+                  </tr>
+               </table></td>
+            </tr>
+            <tr> 
+              <!-- HTML Spacer row -->
+              <td style="font-size: 0; line-height: 0;" height="10"><table width="100%" align="center"  cellpadding="0" cellspacing="0" bgcolor="#161616">
+                  <tr>
+                    <td style="font-size: 0; line-height: 0;" height="20">
+                    </td>
+                  </tr>
+                </table></td>
+            </tr>
+            <tr>
+              <td><table cellpadding="0" cellspacing="0" align="center" width="100%" style="margin-left:" class="catalog" bgcolor="#161616">
+                  <!-- Table for catalog -->
+                  <tr>
+                    <td ><table class ="responsive-table" width="100%"  cellspacing="0" cellpadding="0" align="center" style="margin: 10px 0px 10px 0px;">
+                        <!-- Table container for each image and description in catalog -->
+                        <tbody>
+                          <tr>
+                            <td>
+                              <table class="table.responsiveContent" width="100%"  cellspacing="0" cellpadding="0" align="center">
+                                <!-- Table container for content -->
+                                <tbody>
+                                  <tr>
+                                    <td>
+                                      <a href="http://nutrck.com/?E=HKO1Dyr4nhrON0aIkN2O5zfQ7pxo0kCN&s1=" style="text-decoration:none">
+                                      <p style="background-color:#e59617; text-align:center; padding: 10px 10px 10px 10px; margin: 10px 10px 10px 10px;color: #FFFFFF;  font-size: 24px; font-family: verdana, geneva, arial, helvetica, sans-serif; ">Beställ provpaket här</p>
+                                      </a></td>
+                                  </tr>
+                                </tbody>
+                              </table></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      </td>
+                  </tr>
+                  
+                </table></td>
+            </tr>
+            <tr bgcolor="#161616">
+              <td><table class="footer" width="100%"  align="center" cellpadding="0" cellspacing="0">
+                  <!-- First column of footer content -->
+                  <tr>
+                    <td><a href="http://nutrck.com/?E=HKO1Dyr4nhrON0aIkN2O5zfQ7pxo0kCN&s1=" style="text-decoration:none"><p align="center"  style="font-size: 24px; font-weight:300; line-height: 1.5em; color: #ffffff; font-family: verdana, geneva, arial, helvetica, sans-serif;"><a href="http://nutrck.com/?E=HKO1Dyr4nhrON0aIkN2O5zfQ7pxo0kCN&s1=">
+
+<img src="hbo-nordic-tabel2.png"  alt="" height="" width="30%" class=""></a></p></a>
+                     </td>
+                  </tr>
+                </table>
+               </td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
